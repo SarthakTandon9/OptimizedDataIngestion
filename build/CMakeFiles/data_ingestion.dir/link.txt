@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -march=x86-64 -mtune=native -pthread -g CMakeFiles/data_ingestion.dir/src/main.cpp.o CMakeFiles/data_ingestion.dir/src/data_ingestion.cpp.o CMakeFiles/data_ingestion.dir/src/config.cpp.o -o data_ingestion  -lpthread 
