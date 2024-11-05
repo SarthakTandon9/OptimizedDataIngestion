@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -march=x86-64 -mtune=native -pthread -g CMakeFiles/mock_server.dir/mock_server/mock_server.cpp.o -o mock_server  -lpthread 

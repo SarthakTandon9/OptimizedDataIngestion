@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -march=x86-64 -mtune=native -pthread -g CMakeFiles/ingestion_benchmark.dir/benchmarks/ingestion_benchmark.cpp.o CMakeFiles/ingestion_benchmark.dir/src/data_ingestion.cpp.o CMakeFiles/ingestion_benchmark.dir/src/config.cpp.o -o ingestion_benchmark  -lpthread 

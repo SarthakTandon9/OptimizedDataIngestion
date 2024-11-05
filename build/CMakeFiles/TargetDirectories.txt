@@ -1,5 +1,0 @@
-/home/sarthakt9/Projects/data-ingestion-module/build/CMakeFiles/data_ingestion.dir
-/home/sarthakt9/Projects/data-ingestion-module/build/CMakeFiles/mock_server.dir
-/home/sarthakt9/Projects/data-ingestion-module/build/CMakeFiles/ingestion_benchmark.dir
-/home/sarthakt9/Projects/data-ingestion-module/build/CMakeFiles/edit_cache.dir
-/home/sarthakt9/Projects/data-ingestion-module/build/CMakeFiles/rebuild_cache.dir
