@@ -1,6 +1,6 @@
 # Optimized Data Ingestion #
 
-This project focuses on developing a high-performance data ingestion system tailored for large-scale data processing applications. It emphasizes efficiency, scalability, and reliability to meet the demands of modern data-driven environments.
+This project focuses on developing a high-performance data ingestion system tailored for large-scale data processing applications. It emphasizes efficiency, scalability, and reliability to meet the demands of modern data-driven environments.
 
 ## Key Features
 
